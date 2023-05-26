@@ -11,10 +11,11 @@
 
 切勿用于非法用途，非法使用造成的一切后果由自己承担，与作者无关。
 
+版本：V1.0
 
-基于Python3编写 
+作者：液体剑
 
-用友 U8 OA test.jsp SQL注入漏洞验证利用脚本
+工具介绍：基于Python3编写的用友 U8 OA test.jsp SQL注入漏洞验证利用脚本
 
 使用方法：python3 U8OA-injection.py -u url
 
