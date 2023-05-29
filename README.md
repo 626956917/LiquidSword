@@ -15,5 +15,8 @@
 
 工具介绍：基于Python3编写的用友OA产品漏洞验证利用脚本
 
+用友 U8 OA test.jsp SQL注入漏洞：U8OA-injection.py
+用友 U8 OA getSessionList.jsp 敏感信息泄漏漏洞：U8OA-Leak.py
+
 使用方法：python3 脚本.py -h 帮助信息 |-u 目标地址
 
