@@ -15,6 +15,8 @@
 
 工具介绍：基于Python3编写的用友OA产品漏洞验证利用脚本
 
+泛微 E-Office 前台文件上传漏洞：E-Office_upload.py
+
 通达OA v2017 video_file.php 任意文件下载漏洞：TDOA-download.py
 
 用友 U8 OA test.jsp SQL注入漏洞：U8OA-injection.py
